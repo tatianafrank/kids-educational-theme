@@ -2494,7 +2494,7 @@ header.about-page{
     z-index: 0;
 }
 header.about-page .header-text{
-    min-height: 540px;
+    min-height: 200px;
     text-align: center;
 }
 header.about-page .header-text h1{
